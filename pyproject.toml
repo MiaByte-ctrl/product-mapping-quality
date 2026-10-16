@@ -1,0 +1,38 @@
+[project]
+name = "product-mapping-quality"
+version = "0.1.0"
+description = "Rank marketplace offers by how suspicious their category assignment is."
+requires-python = ">=3.14"
+dependencies = [
+    "pandas==3.0.6",
+    "numpy==2.5.4",
+    "scikit-learn==1.9.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest==9.1.1",
+    "ruff==0.17.1",
+]
+notebook = [
+    "ipykernel==7.4.0",
+    "nbclient==0.11.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+extend-exclude = ["notebooks/.archive"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+# Notebooks add src/ to sys.path before importing pmq.
+"notebooks/*.ipynb" = ["E402"]

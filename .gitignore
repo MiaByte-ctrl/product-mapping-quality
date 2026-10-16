@@ -1,0 +1,13 @@
+# Environment
+.venv/
+.env
+
+# Data (never committed)
+data/
+
+# Python and Jupyter caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
