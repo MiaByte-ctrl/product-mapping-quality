@@ -1,0 +1,51 @@
+rank,pid,product_name,original_category,predicted_category,suspicion_score,verdict,note
+1,SKIEGRUNUJ353ZTY,Sharleez Solid Women's A-line Red Skirt,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.9871,suspected_mapping_error,Product name points to a different audience than the source category.
+2,KTAEHBHXNNYXMDVW,BrandMeUp Solid Women's Straight Kurta,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.9737,suspected_mapping_error,Product name points to a different audience than the source category.
+3,TSHEAFE4ZGNJKAW8,One For Blue Animal Print Women's Round Neck T-Shirt,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.9483,suspected_mapping_error,Product name points to a different audience than the source category.
+4,DREEGVVG36ZHHYHQ,TwiQ S.A. Garments Girl's Tube Black Dress,Clothing >> Women's Clothing,Clothing >> Kids' Clothing,0.9451,suspected_mapping_error,Product name points to a different audience than the source category.
+5,SOCE7732ARDEF7UF,NBA Women's Solid Ankle Length Socks,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.9052,suspected_mapping_error,Product name points to a different audience than the source category.
+6,SPWEFFPGEPTYZDNZ,Man2 OSH Kimaka Men's Shapewear,Clothing >> Women's Clothing,Clothing >> Men's Clothing,0.8841,suspected_mapping_error,Product name points to a different audience than the source category.
+7,SWTEC9Z2URZYRBGR,Roadster Solid Round Neck Casual Men's Sweater,Clothing >> Women's Clothing,Clothing >> Men's Clothing,0.8759,suspected_mapping_error,Product name points to a different audience than the source category.
+8,CAPEHXTRYTBBN2QK,Eccellente Solid Hip Hop Cap,Clothing >> Women's Clothing,Clothing >> Men's Clothing,0.8622,insufficient_information,"Ideal For lists Boy's, Girl's, Men's and Women's; unisex, no single category supported."
+9,TSHEDMWXJYJCZQ9Y,Max T-Shirt,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.8432,insufficient_information,Name and description do not say who the product is for.
+10,FABEG953TRCT4ENH,JHON DIEGO Viscose Self Design Suit Fabric,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.829,false_alarm,Description says the fabric is sufficient for an XL size man; source Men's supported.
+11,STOECMCFBZM6Z4G6,Mee Mee Baby Girl's Textured Stockings,Clothing >> Women's Clothing,Clothing >> Kids' Clothing,0.8149,suspected_mapping_error,"Ideal For Baby Girl's, age group 1-2 months; a kids' product assigned to Women's."
+12,ETHEGD3EJ6BMAF7H,"Cynthia's Fashion Women's, Girl's Kurta, Pyjama & Dupatta Set",Clothing >> Women's Clothing,Clothing >> Kids' Clothing,0.8134,insufficient_information,Text names both women and girls; audience evidence is nonexclusive.
+13,JEAE6P3YHQZQGF3Z,Utex Slim Fit Fit Baby Boy's Jeans,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.8006,false_alarm,Baby Boy's jeans described for 'your kids'; source Kids supported.
+14,TSHEFJ3FGRGQNRYD,"United Colors of Benetton Striped Round Neck Green, Purple T-Shirt",Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7946,false_alarm,"Description says Age Group 1 - 2 Years; source Kids supported, not the suggested Women's."
+15,TSHE8Q4AZBZUFFSC,Gkidz Solid Boy's Polo Neck T-Shirt,Clothing >> Kids' Clothing,Clothing >> Men's Clothing,0.785,false_alarm,Polo T-shirt 'for your little son'; source Kids supported.
+16,ACBECT5UXYVB6EHX,Abhira Top Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7799,false_alarm,Girl's top-and-bottom combo set; source Kids supported.
+17,CAPEJM8FEFDPFGH6,Hot Wheels Graphic Print Skull Cap,Clothing >> Kids' Clothing,Clothing >> Men's Clothing,0.7727,false_alarm,Ideal For Boy's; source Kids supported.
+18,SWDEGP9B8BQ3MJDE,Polkakart Printed Kurti & Leggings,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7678,insufficient_information,"Ideal For Girl's, Women's; audience evidence is nonexclusive."
+19,TSHEFJ33H8RXNYRC,United Colors of Benetton Printed Round Neck T-Shirt,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7662,false_alarm,Age Group 0 - 6 Months; source Kids supported.
+20,SWDEGP9BEMJMED3F,Polkakart Printed Kurti & Leggings,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7632,insufficient_information,"Ideal For Girl's, Women's; audience evidence is nonexclusive."
+21,TSHEG6Y4GSXKQMDV,United Colors of Benetton Printed Round Neck T-Shirt,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7575,false_alarm,Age Group 6 - 12 Months; source Kids supported.
+22,ACBECT5UXKDWDRRE,Abhira Top Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7571,false_alarm,Girl's top-and-bottom combo set; source Kids supported.
+23,TOPEBKPFZSBVQMNT,Kothari Casual Short Sleeve Printed Girl's Top,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7276,false_alarm,Girl's top described as baby cloth for 'your little one'; source Kids supported.
+24,ACBEA4498TDPW6JP,lil'posh Top With Skirts Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7211,false_alarm,Girl's combo to 'charm your daughter'; source Kids supported.
+25,DREE4DF4AD9ZZHEX,For Kids Girl's A-line Dress,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.714,false_alarm,Girl's dress for 'your little princess'; source Kids supported.
+26,ACBECSFFCM9GJXHK,Abhira Top Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7098,false_alarm,Girl's top-and-bottom combo set; source Kids supported.
+27,DREDYSNRZGBFFVQ5,Beebay Girl's A-line Dress,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.7057,false_alarm,Girl's frock for 'your princess'; source Kids supported.
+28,ACBECSFFNEUFZSYE,Abhira Top Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.705,false_alarm,Girl's top-and-bottom combo set; source Kids supported.
+29,SWDEGP9ASG5Z5WAR,Polkakart Printed Kurti & Leggings,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6972,insufficient_information,"Ideal For Girl's, Women's; audience evidence is nonexclusive."
+30,SWDEJF8FQX7BMPG4,Saarah Self Design Kurta & Salwar,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6961,false_alarm,Kurta set for 'your little princess'; source Kids supported.
+31,ACBEAKUFWNGHDNXZ,Hawai Combo Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6931,false_alarm,Combo 'for your daughter'; source Kids supported.
+32,TKPDYXVR7KRUSH33,FS Mini Klub Solid Track Pants,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6922,insufficient_information,Description only repeats the name and price; no audience stated.
+33,PELEJUCGWJAHT6CW,Voylla Artificial Classic Plain Yellow Gold Cubic Zirconia Alloy Pendant,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.689,false_alarm,Specification says Ideal For Men; source Men's supported.
+34,SRWEFU5FHASPAG6V,Khaan Saab Editions Woven Sherwani,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.687,false_alarm,Specification says Ideal For Men's; source Men's supported.
+35,FABEJHCYVZMGGFWF,Cotts Hub Cotton Polyester Blend Solid Shirt Fabric,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.6759,false_alarm,Specification says Ideal For Men's; source Men's supported.
+36,PELEJUCGUAPQRCZX,Voylla Artificial Classic Plain Rose Gold Alloy Pendant,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.6554,false_alarm,Specification says Ideal For Men; source Men's supported.
+37,ACBEA4496TX8ZZV4,Oye Top With Skirts Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6496,false_alarm,Girl's combo for 'your little diva'; source Kids supported.
+38,LNGEBDTBNZPHNWF6,AT Checkered Lungi Lungi,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.6473,insufficient_information,"Text states no audience (lungi is usually menswear, but that is outside the text)."
+39,ACBEAGHHRM5FWHXB,Oye Top Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6473,false_alarm,Girl's combo to 'charm your daughter'; source Kids supported.
+40,CAPE2ZGG9N9UFHCH,TakeInCart Solid Baseball Cap,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.638,insufficient_information,Cap description states no audience.
+41,CAPE2ZGGQ56T9HGZ,TakeInCart Solid Baseball Cap,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.6378,insufficient_information,Cap description states no audience.
+42,LJGEDCVZU8QBJ8QQ,Mothercare Leggings,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6365,insufficient_information,Specification states no audience.
+43,SWDEGP9AFNF3JFMB,Polkakart Embroidered Kurti & Leggings,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6335,insufficient_information,"Ideal For Girl's, Women's; audience evidence is nonexclusive."
+44,SWTEDVZZ92PX48ZY,Addyvero Geometric Print Round Neck Casual Boy's Sweater,Clothing >> Kids' Clothing,Clothing >> Kids' Clothing,0.6279,false_alarm,Boy's sweater 'for your kids'; source Kids supported (model also predicts Kids).
+45,LNGEBDTBGWTXTYWT,AT Striped Lungi Lungi,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.6123,insufficient_information,"Text states no audience (lungi is usually menswear, but that is outside the text)."
+46,STOEFJTE2T6NWHYX,"AirFlow Women's, Girl's Regular Stockings",Clothing >> Women's Clothing,Clothing >> Kids' Clothing,0.61,insufficient_information,"Name lists Women's and Girl's; age group 15-45 months suggests a child, but audience is nonexclusive."
+47,DREECUDTWZ3HEYJC,Petals Girl's Gathered Dress,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.6097,false_alarm,"Girl's in the name; source Kids supported, description itself gives no audience."
+48,ACBEA449ZZJEYJFG,Oye Top With Skirts Girl's  Combo,Clothing >> Kids' Clothing,Clothing >> Women's Clothing,0.609,false_alarm,Girl's combo to 'charm your daughter'; source Kids supported.
+49,CAPEEFYZJPSPGUYW,Ownclique Graphic Print Snapback Cap,Clothing >> Men's Clothing,Clothing >> Women's Clothing,0.603,insufficient_information,Cap description states no audience.
+50,TKPE9R3SMXGCCKB5,Lava Looser No 1-Red Striped Boy's Track Pants,Clothing >> Kids' Clothing,Clothing >> Kids' Clothing,0.591,false_alarm,Boy's track pants 'for your son'; source Kids supported (model also predicts Kids).
